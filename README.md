@@ -1,8 +1,10 @@
 # testlesson4_1
 ## ornekler
 __bakalim__
-1. bu bir liste
-    * item 1 
+1. Yapilacaklar Listesi
+    * Calis 
+    * Daha cok calis
+    * Daha da cok calis 
 
 markdown file denemele
 ```
