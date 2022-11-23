@@ -7,4 +7,4 @@ __bakalim__
 markdown file denemele
 ```
 print("test")
-[clarusway](https://clarusway.com)
+[I'm an inline-style link](https://www.google.com)
