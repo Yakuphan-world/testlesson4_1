@@ -7,4 +7,4 @@ __bakalim__
 markdown file denemele
 ```
 print("test")
-[clarusway](https://clarusway.de/)
+[clarusway](https://clarusway.com)
