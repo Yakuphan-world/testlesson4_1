@@ -7,4 +7,4 @@ __bakalim__
 markdown file denemele
 ```
 print("test")
-[linkedin](https://www.linkedin.com/in/yakuphan-bilgic-9b8371239/)
+[linkedin](https://www.linkedin.com/in/yakuphan-bilgic-9b8371239)
